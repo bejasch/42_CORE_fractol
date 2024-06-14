@@ -19,7 +19,6 @@
 # include <stdlib.h>
 # include <unistd.h>
 # include <math.h>
-# include <stdio.h>
 
 // MLX_STRUCT
 typedef struct s_data
